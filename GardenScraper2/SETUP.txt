@@ -1,0 +1,16 @@
+### GARDENERS LOGIN ###
+### See readme.txt for instructions ###
+
+Please replace the text below with Gardeners account number, username and password:
+NAR005
+NAR005
+AZSEF23T
+
+Please replace example link below with shop website link:
+https://narberthmuseum.co.uk
+
+Please type WooCommerce API consumer key below (see readme.txt for more details)
+ck_07e61955ca98c455c0c4040382a4921a8c7f8a44
+
+Please type WooCommerce API consumer secret below (see readme.txt for more details)
+cs_609a44bdc0166e1a72061a3d666a9983a47181b8
